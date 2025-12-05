@@ -1,0 +1,37 @@
+[
+    {
+        "user_id": 5868655324,
+        "error_message": "File must be non-empty",
+        "timestamp": "2025-04-02 16:16:57"
+    },
+    {
+        "user_id": 1676112331,
+        "error_message": "File must be non-empty",
+        "timestamp": "2025-04-02 19:49:10"
+    },
+    {
+        "user_id": 2104715053,
+        "error_message": "File must be non-empty",
+        "timestamp": "2025-04-02 19:50:57"
+    },
+    {
+        "user_id": 2104715053,
+        "error_message": "File must be non-empty",
+        "timestamp": "2025-04-02 19:59:02"
+    },
+    {
+        "user_id": 6891958758,
+        "error_message": "EOF occurred in violation of protocol (_ssl.c:2426)",
+        "timestamp": "2025-04-03 13:23:18"
+    },
+    {
+        "user_id": 5877827361,
+        "error_message": "[Errno 32] Broken pipe",
+        "timestamp": "2025-12-03 09:43:05"
+    },
+    {
+        "user_id": 6849445898,
+        "error_message": "[Errno 32] Broken pipe",
+        "timestamp": "2025-12-03 11:16:35"
+    }
+]

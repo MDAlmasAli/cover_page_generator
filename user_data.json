@@ -1,0 +1,579 @@
+{
+    "1672274258": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Sharon Sahrin Mim",
+        "s_id": "0182320012101064",
+        "s_batch": "62",
+        "s_section": "B",
+        "courses": [
+            {
+                "title": "Principle of Accounting",
+                "code": "GED - 1291"
+            },
+            {
+                "title": "Smartphone Application Development",
+                "code": "CSE - 3212"
+            },
+            {
+                "title": "Sustainable Development",
+                "code": "GED - 1261"
+            },
+            {
+                "title": "Numerical Methods",
+                "code": "CSE - 3115"
+            },
+            {
+                "title": "Numerical Methods Sessional",
+                "code": "CSE - 3116"
+            },
+            {
+                "title": "Data Communication",
+                "code": "CSE - 2231"
+            }
+        ],
+        "teachers": [
+            {
+                "name": "Mr. Iehit Sharma",
+                "designation": "Lecturer",
+                "department": "Department of Tourism and Hospitality Management",
+                "title": "Mr. Iehit Sharma"
+            },
+            {
+                "name": "Nargish Jahan",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nargish Jahan"
+            },
+            {
+                "name": "Nuzhat Madeha Chowdhury",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nuzhat Madeha Chowdhury"
+            },
+            {
+                "name": "Sourov Roy Shuvo",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Sourov Roy Shuvo"
+            },
+            {
+                "name": "Alian Ahmed Ferdous",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Alian Ahmed Ferdous"
+            },
+            {
+                "name": "Monjila Moni",
+                "designation": "Lecturer",
+                "department": "Department of CSE",
+                "title": "Monjila Moni"
+            }
+        ],
+        "friends": [
+            {
+                "title": "Tasmina Rahman Chowdhury",
+                "s_name": "Tasmina Rahman Chowdhury",
+                "s_id": "0182320012101050",
+                "s_batch": "62",
+                "s_section": "B",
+                "department": "Department of CSE"
+            }
+        ]
+    },
+    "1287433867": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Bijit Acharjee",
+        "s_id": "0182320012101028",
+        "s_batch": "62",
+        "s_section": "A"
+    },
+    "5936532324": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Sheikh",
+        "s_id": "0182320012100000",
+        "s_batch": "66",
+        "s_section": "A"
+    },
+    "7515399076": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Donald Trump",
+        "s_id": "0182320012100000",
+        "s_batch": "60",
+        "s_section": "A",
+        "courses": [
+            {
+                "title": "Data Structures",
+                "code": "CSE-2202"
+            }
+        ],
+        "teachers": [
+            {
+                "name": "MD Arifuzzaman",
+                "designation": "Professor",
+                "department": "CSE"
+            },
+            {
+                "name": "Arifuzzaman",
+                "designation": "Professor",
+                "department": "Dept. of CSE"
+            }
+        ]
+    },
+    "5985781655": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Jamil Ahmed Sunny",
+        "s_id": "0182320012101335",
+        "s_batch": "62",
+        "s_section": "H"
+    },
+    "5459723142": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Rahul das chowdhurry",
+        "s_id": "0181240012101192",
+        "s_batch": "64",
+        "s_section": "E"
+    },
+    "2104715053": {
+        "department": "Computer Science and Engineering",
+        "s_name": "sbsvbs",
+        "s_id": "0182320012101068",
+        "s_batch": "bjhs",
+        "s_section": "Bsbhsi"
+    },
+    "5181745305": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Kallol Das Kushol",
+        "s_id": "0182410012101006",
+        "s_batch": "63",
+        "s_section": "A"
+    },
+    "6284072732": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Donald Trump",
+        "s_id": "0182320012100000",
+        "s_batch": "60",
+        "s_section": "a"
+    },
+    "6485013087": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Jhon",
+        "s_id": "0182410012101008",
+        "s_batch": "60",
+        "s_section": "A"
+    },
+    "6669268981": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Johirul Islam Mizan",
+        "s_id": "0182320012101424",
+        "s_batch": "63",
+        "s_section": "E"
+    },
+    "1811184675": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Elora",
+        "s_id": "0182321001210126",
+        "s_batch": "61",
+        "s_section": "E"
+    },
+    "6994421239": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Abdur Rahman",
+        "s_id": "0182410012101181",
+        "s_batch": "63",
+        "s_section": "E"
+    },
+    "1787979577": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Arnab Chowdhury Joy",
+        "s_id": "0182410012101096",
+        "s_batch": "63",
+        "s_section": "C"
+    },
+    "5687248094": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Mubasshira Rahman Setu",
+        "s_id": "0182410012101084",
+        "s_batch": "63",
+        "s_section": "B"
+    },
+    "7511252951": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Nowshin",
+        "s_id": "0182410012101234",
+        "s_batch": "63",
+        "s_section": "E"
+    },
+    "6641764184": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Abdul Hamid",
+        "s_id": "0182420012101408",
+        "s_batch": "64",
+        "s_section": "I"
+    },
+    "1654749304": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Donald Trump",
+        "s_id": "0182410012101052",
+        "s_batch": "63",
+        "s_section": "A"
+    },
+    "6982518530": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Pritee Rani Paul",
+        "s_id": "0182410012101056",
+        "s_batch": "63",
+        "s_section": "B"
+    },
+    "8088781452": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Ff",
+        "s_id": "5132543253685356",
+        "s_batch": "62",
+        "s_section": "A"
+    },
+    "5272323274": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Donald Trump",
+        "s_id": "0182320012101421",
+        "s_batch": "60",
+        "s_section": "A"
+    },
+    "5326325472": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Nahian Hussain Imad",
+        "s_id": "0182510012101123",
+        "s_batch": "65",
+        "s_section": "C"
+    },
+    "6785272548": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Donald",
+        "s_id": "0182420012101201",
+        "s_batch": "64",
+        "s_section": "E"
+    },
+    "5167186569": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Sheikh Hasina",
+        "s_id": "0182210012901040",
+        "s_batch": "59",
+        "s_section": "E"
+    },
+    "5542838371": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Donald trump",
+        "s_id": "0182420012100000",
+        "s_batch": "57",
+        "s_section": "A"
+    },
+    "6557042894": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Shajnin Rahman Omi",
+        "s_id": "0182320012101065",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "5589111790": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Syed Wafiul Hasanat Hussain",
+        "s_id": "0182320012101049",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "5846772490": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Arny Nath Oishee",
+        "s_id": "0182320012101080",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "5847964802": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Tunajjina Habib",
+        "s_id": "0182320012101274",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "1649815664": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Arman Hassan",
+        "s_id": "0182320012101075",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "8174280512": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Habib Salehin Shamun",
+        "s_id": "0182320012101054",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "1927505843": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Anupom Sutradhar",
+        "s_id": "0182320012101059",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "5045981100": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Abu Jafor",
+        "s_id": "0182320012101206",
+        "s_batch": "62",
+        "s_section": "E"
+    },
+    "7991743457": {
+        "department": "Computer Science and Engineering",
+        "s_name": "Md Jakaria",
+        "s_id": "0182320012101071",
+        "s_batch": "62",
+        "s_section": "B"
+    },
+    "1676112331": {
+        "department": "Computer Science and Engineering",
+        "s_name": "MD Almas Ali",
+        "s_id": "0182320012101068",
+        "s_batch": "62",
+        "s_section": "B",
+        "courses": [
+            {
+                "title": "Principle of Accounting",
+                "code": "GED - 1291"
+            },
+            {
+                "title": "Smartphone Application Development",
+                "code": "CSE-3212"
+            },
+            {
+                "title": "Numerical Methods",
+                "code": "CSE - 3115"
+            },
+            {
+                "title": "Numerical Methods Sessional",
+                "code": "CSE - 3116"
+            },
+            {
+                "title": "Data Communication",
+                "code": "CSE - 2231"
+            },
+            {
+                "title": "Sustainable Development",
+                "code": "GED - 1261"
+            }
+        ],
+        "teachers": [
+            {
+                "name": "Nargish Jahan",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nargish Jahan"
+            },
+            {
+                "name": "Nuzhat Madeha Chowdhury",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nuzhat Madeha Chowdhury"
+            },
+            {
+                "name": "Sourov Roy Shuvo",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Sourov Roy Shuvo"
+            },
+            {
+                "name": "Alian Ahmed Ferdous",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Alian Ahmed Ferdous"
+            },
+            {
+                "name": "Monjila Moni",
+                "designation": "Lecturer",
+                "department": "Department of CSE",
+                "title": "Monjila Moni"
+            },
+            {
+                "name": "Mr. Iehit Sharma",
+                "designation": "Lecturer",
+                "department": "Department of Tourism and Hospitality Management",
+                "title": "Mr. Iehit Sharma"
+            }
+        ]
+    },
+    "5689811180": {
+        "department": "Department of CSE",
+        "s_name": "XXXXX",
+        "s_id": "0000000000000000",
+        "s_batch": "62",
+        "s_section": "X"
+    },
+    "6253238048": {
+        "courses": [
+            {
+                "title": "Principle of Accounting",
+                "code": "GED - 1291"
+            },
+            {
+                "title": "Smartphone Application Development",
+                "code": "CSE - 3212"
+            },
+            {
+                "title": "Sustainable Development",
+                "code": "GED - 1261"
+            },
+            {
+                "title": "Numerical Methods",
+                "code": "CSE - 3115"
+            },
+            {
+                "title": "Numerical Methods Sessional",
+                "code": "CSE - 3116"
+            },
+            {
+                "title": "Data Communication",
+                "code": "CSE - 2231"
+            }
+        ],
+        "teachers": [
+            {
+                "name": "Mr. Iehit Sharma",
+                "designation": "Lecturer",
+                "department": "Department of Tourism and Hospitality Management",
+                "title": "Mr. Iehit Sharma"
+            },
+            {
+                "name": "Nargish Jahan",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nargish Jahan"
+            },
+            {
+                "name": "Nuzhat Madeha Chowdhury",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nuzhat Madeha Chowdhury"
+            },
+            {
+                "name": "Sourov Roy Shuvo",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Sourov Roy Shuvo"
+            },
+            {
+                "name": "Alian Ahmed Ferdous",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Alian Ahmed Ferdous"
+            },
+            {
+                "name": "Monjila Moni",
+                "designation": "Lecturer",
+                "department": "Department of CSE",
+                "title": "Monjila Moni"
+            }
+        ],
+        "department": "Department of CSE",
+        "s_name": "Md Shahriar Khan",
+        "s_id": "0182320012101051",
+        "s_batch": "62",
+        "s_section": "B",
+        "friends": [
+            {
+                "title": "Md Almas Ali",
+                "s_name": "Md Almas Ali",
+                "s_id": "0182320012101068",
+                "s_batch": "62",
+                "s_section": "B",
+                "department": "Department of CSE"
+            }
+        ]
+    },
+    "5877827361": {
+        "courses": [
+            {
+                "title": "Principle of Accounting",
+                "code": "GED - 1291"
+            },
+            {
+                "title": "Smartphone Application Development",
+                "code": "CSE - 3212"
+            },
+            {
+                "title": "Sustainable Development",
+                "code": "GED - 1261"
+            },
+            {
+                "title": "Numerical Methods",
+                "code": "CSE - 3115"
+            },
+            {
+                "title": "Numerical Methods Sessional",
+                "code": "CSE - 3116"
+            },
+            {
+                "title": "Data Communication",
+                "code": "CSE - 2231"
+            }
+        ],
+        "teachers": [
+            {
+                "name": "Mr. Iehit Sharma",
+                "designation": "Lecturer",
+                "department": "Department of Tourism and Hospitality Management",
+                "title": "Mr. Iehit Sharma"
+            },
+            {
+                "name": "Nargish Jahan",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nargish Jahan"
+            },
+            {
+                "name": "Nuzhat Madeha Chowdhury",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Nuzhat Madeha Chowdhury"
+            },
+            {
+                "name": "Sourov Roy Shuvo",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Sourov Roy Shuvo"
+            },
+            {
+                "name": "Alian Ahmed Ferdous",
+                "designation": "Adjunct Lecturer",
+                "department": "Department of CSE",
+                "title": "Alian Ahmed Ferdous"
+            },
+            {
+                "name": "Monjila Moni",
+                "designation": "Lecturer",
+                "department": "Department of CSE",
+                "title": "Monjila Moni"
+            }
+        ],
+        "department": "Department of CSE",
+        "s_name": "Tasmina Rahman Chowdhury",
+        "s_id": "0182320012101050",
+        "s_batch": "62",
+        "s_section": "B",
+        "friends": [
+            {
+                "title": "Sharon Sahrin Mim",
+                "s_name": "Sharon Sahrin Mim",
+                "s_id": "0182320012101064",
+                "s_batch": "62",
+                "s_section": "B",
+                "department": "Department of CSE"
+            }
+        ]
+    },
+    "5841020813": {
+        "department": "Department of CSE",
+        "s_name": "Abhik Roy",
+        "s_id": "0182586484648412",
+        "s_batch": "65",
+        "s_section": "A"
+    }
+}
