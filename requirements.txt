@@ -1,0 +1,13 @@
+python-telegram-bot>=20.0
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+APScheduler
+pytz
+python-dateutil
+PyPDF2
+python-telegram-bot-calendar
+httplib2
+httpx
